@@ -1,0 +1,36 @@
+This is only a guideline.
+You can make your own decision to deviate from this structure. However, please liaise with teaching assistant or lecturer
+
+Report - 3000 words
+
+Title Page
+
+Abstract (Write this after main body of the report is completed. Not to exceed a page - One small paragraph for each topic. Not included in the word count)
+Table of contents (write this after the report is completed, not included in the word count)
+
+1. Introduction (10%)
+    - Detailed information on the background of the subject matter
+2.  Online and offline products and services. (Appropriate title for the given task. Do not copy and paste the topic question) - 25% approximately
+
+    - Discuss the differences and similarities of services and products being sold online and offline - Academic and nonacademic sources
+    - At least ONE example - academic and/or nonacademic source, such as a website
+
+3.  Challenges and their measures of Privacy and Security (Appropriate title for the given task. Do not copy and paste the topic question) - 30% approximately
+
+    - Privacy
+        - Challenges and Measures with academic and nonacademic references
+    - Security
+        - Challenges and Measures with academic and nonacademic references
+    - Academic sources like books, journals preferably
+    - At least ONE example - academic and/or nonacademic source, such as a website
+
+4. Different Communication and Collaboration Tools. (Appropriate title for the given task. Do not copy and paste the topic question) - 25% approximately
+
+    - Identify different tools and compare and contrast their features, applications, suitability etc with examples - academic sources like books, journals preferably
+    - At least ONE example - academic and/or nonacademic source, such as a website can be used.
+
+5. Conclusion (10%)
+
+   - The report reviewed the topics of.. whereby it was found that (summarise very briefly key points from each of the three topics)
+
+6. References - At least EIGHT references in Harvard Style, not included in the word count

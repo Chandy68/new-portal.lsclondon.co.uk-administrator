@@ -1,0 +1,25 @@
+Report - 3000 (+/-10%) words
+
+Title Page
+
+Abstract (Write this after main body of the report is completed. Word count is not included)
+Table of contents (write this after the report is completed. Word Count is not included)
+
+1. Introduction (10%)
+2. Literature Review (Generic(40%-50%)-1000 words to 1500 words)
+
+ 2.1. Software and its types(in any business in general)
+ 2.2. Ethics and social issues of IT (in any business in general)
+ 2.3. Impact of Information and Communication Technology (ICT) on businesses - Internet and Intranet(in general)
+ 2.4. Role of IT in businesses (in general)
+
+3. Analysis and Discussion (Specific(30%-40%) -800 words to 1200)
+
+ 3.1. Software and its types used in the chosen business (in specific)
+ 3.2. Ethics and social issues of IT in selected business(in specific)
+ 3.3. Impact of Internet and Intranet on the selected business (in specific)
+ 3.4. Role of IT in the selected business (in specific)
+
+4. Conclusion (10%)
+
+5. References - At least SIX references in Harvard Style

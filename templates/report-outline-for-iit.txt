@@ -1,0 +1,26 @@
+Report - 2000 to 3000 words
+
+Title Page
+
+Abstract (Write this after main body of the report is completed. Word count is not included)
+Table of contents (write this after the report is completed. Word count is not included)
+
+1. Introduction (10%)
+2. Literature Review (Generic(40%-50%)-1000 words to 1500 words)
+
+ 2.1. Software Types  (in general in any business)
+ 2.2. Ethics and social issues of IT (in any business in general)
+ 2.3. Networks and their types (in general)
+ 2.4. Artificial Intelligence and its importance in businesses (in general)
+ 2.5. Software(System) Development Life Cycle (in General)
+
+3. Analysis and Discussion (Specific(30%-40%) -800 words to 1200)
+
+ 3.1. Software types in selected business (in specific)
+ 3.2. Ethics and social issues of IT in selected business(in specific)
+ 3.3. Networks and their types in selected business(in specific)
+ 3.4. Application of AI (in specific)
+
+4. Conclusion (10%)
+
+5. References - At least SIX references in Harvard Style

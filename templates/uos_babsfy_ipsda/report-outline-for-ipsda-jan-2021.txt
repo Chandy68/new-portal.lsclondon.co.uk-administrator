@@ -1,0 +1,30 @@
+This is only a guideline.
+You can make your own decision as well to deviate from this structure. However, please liaise with teaching assistant or lecturer
+
+Report - 2000 to 3000 words
+
+Title Page
+
+Abstract (Write this after main body of the report is completed. Not to exceed a page - One small paragraph for each topic. Not included in the word count)
+Table of contents (write this after the report is completed)
+
+1. Introduction (10%)
+
+2. Video Conferencing/Communication tools/apps (Appropriate title for the given task. Do not copy and paste the topic question) - 30% approximately
+
+    Advantages, disadvantages, suitability and applications of different tools - academic sources like books, journals preferably
+    At least one example - non academic source, such as a website
+
+3. Could Computing and Storage (Appropriate title for the given task. Do not copy and paste the topic question) - 30% approximately
+
+    Advantages, disadvantages, suitability and applications of cloud storage and computing - academic sources like books, journals preferably
+    At least one example - non academic source, such as a website
+
+4. Online Security and Privacy (Appropriate title for the given task. Do not copy and paste the topic question) - 20% approximately
+
+    Measures of security and privacy with examples. - Academic and non-academic sources
+
+5. Conclusion (10%)
+    The report reviewed the topics of.. whereby it was found that (summarise very briefly key points from each of the three topics)
+
+6. References - At least EIGHT references in Harvard Style
