@@ -302,9 +302,9 @@ WHERE
             $query .= " AND (termsubjectlecturer.group='$group')";
         }
 
-        //$query .= " GROUP BY 1, 2 ORDER BY student.id ASC";
+        $query .= " GROUP BY 1, 2 ORDER BY student.id ASC";
 
-        $query .= " GROUP BY 1, 2 ORDER BY student.id DESC";
+        //$query .= " GROUP BY 1, 2 ORDER BY student.id DESC";
 
         return $query;
     }
@@ -510,8 +510,8 @@ WHERE
         }*/
 
         //$query .= " ORDER BY student.mdl_user_id ASC";
-        $query .= " ORDER BY student.id DESC";
-        //$query .= " ORDER BY student.mdl_user_id ASC";
+        //$query .= " ORDER BY student.id DESC";
+        $query .= " ORDER BY student.mdl_user_id DESC";
 
         //print_r("<pre>".$query);
 
